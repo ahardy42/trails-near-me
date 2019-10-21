@@ -29,5 +29,5 @@ tutorial on mongoDB schema migrations
 
 ### external APIs
 
-- trailapi -> a database of trails [link]()
+- trailapi -> a database of trails [link](https://english.api.rakuten.net/trailapi/api/trailapi/endpoints)
 
