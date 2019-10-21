@@ -4,8 +4,15 @@ tutorial on mongoDB schema migrations
 ## How to Install
 
 1. Clone to your machine
-2. ``` cd project-folder && npm install && npm run install```
-3. cd into root folder -> ```npm run start```
+2. ``` cd project-folder && touch .env``` 
+3. ```npm install && npm run install```
+4. cd into root folder -> ```npm run start```
+
+populate your .env file with:
+
+```
+TRAIL_API_KEY=<your key here>
+```
 
 ## MVC design
 
